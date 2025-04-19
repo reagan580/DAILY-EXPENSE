@@ -1,1 +1,1 @@
-# DAILY-EXPENSE
+# ExpenseEase
